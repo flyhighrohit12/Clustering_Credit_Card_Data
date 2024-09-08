@@ -408,7 +408,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; padding: 10px;">
-        <p>Created with ❤️ by Your Name | Data Source: Credit Card Customer Dataset</p>
+        <p>Created by RS | Data Source: Credit Card Customer Dataset</p>
         <p>© 2023 Credit Card Clustering App. All rights reserved.</p>
     </div>
     """,
